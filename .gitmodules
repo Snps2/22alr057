@@ -1,3 +1,6 @@
 [submodule "fit"]
 	path = fit
 	url = https://github.com/Snps2/fit.git
+[submodule "oswd"]
+	path = oswd
+	url = ./oswd/
